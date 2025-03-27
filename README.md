@@ -1,6 +1,9 @@
 # JATE-19
 
-![]()
+![J-1](./assets/images/J-1.png)
+
+## Link
+https://jate-19-1z7t.onrender.com/
 
 ## Description
 This is a text editor web application that follows a client-server architecture and is bundled using Webpack. It includes IndexedDB for persistent storage and supports Progressive Web Application (PWA) functionality.
