@@ -1,5 +1,7 @@
 # JATE-19
 
+![]()
+
 ## Description
 This is a text editor web application that follows a client-server architecture and is bundled using Webpack. It includes IndexedDB for persistent storage and supports Progressive Web Application (PWA) functionality.
 
@@ -9,9 +11,8 @@ This is a text editor web application that follows a client-server architecture 
    git clone <repository-url>
    ```
 2. Navigate to the project directory:
-   ```sh
    cd text-editor-app
-   ```
+
 3. Install dependencies:
    ```sh
    npm install
